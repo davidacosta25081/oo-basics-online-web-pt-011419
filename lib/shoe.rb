@@ -16,6 +16,3 @@ def cobble
 end
 
 end
-
-zapato =Shoe.new(nike)
-puts zapato.brand
